@@ -1,5 +1,5 @@
 # 🍛 DiabetesDietBot - AI-Based Dietary Assistant for Type 2 Diabetes
-
+![Diabetes Diet Bot](https://github.com/SYEDFAIZAN1987/First-Aid-Tutor/blob/main/RAGGPT%20UI.png)
 ## 📌 Overview
 **DiabetesDietBot** is an AI-powered chatbot developed by **Syed Faizan** for **Mysore Medical College and Research Institute** as part of a research study on how chatbots can assist **doctors and medical students** in recommending **predefined diet plans** to patients with **Type 2 Diabetes**. 
 
